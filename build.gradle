@@ -6,6 +6,7 @@ buildscript {
         springBootVersion = "1.5.7.RELEASE"
         springCloudDependenciesVersion = "Edgware.SR5"
         springCloudServicesVersion = "1.6.6.RELEASE"
+        springCloudSsoVersion = "2.0.0.RELEASE"
         springVersion = "4.3.8.RELEASE"
     }
 
